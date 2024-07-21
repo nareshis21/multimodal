@@ -11,21 +11,17 @@ To get started with InsightFusion Chat, follow these steps:
 First, clone the repository or download the code:
 
 ```bash
-git clone [REPOSITORY_URL]
+git clone https://github.com/nareshis21/multimodal.git
 ```
-
-Replace `[REPOSITORY_URL]` with the URL of your GitHub repository.
 
 ### 2. Install Dependencies
 
 Navigate to the project directory and install the required Python packages using `requirements.txt`:
 
 ```bash
-cd [PROJECT_DIRECTORY]
+cd multimodal
 pip install -r requirements.txt
 ```
-
-Replace `[PROJECT_DIRECTORY]` with the directory where you downloaded or cloned the project.
 
 ### 3. Run the Application
 
@@ -39,7 +35,7 @@ This will launch the Streamlit interface where you can interact with the multimo
 
 ## Acknowledgements
 
-Special thanks to Adam Łucek for the inspiring code and tutorials from your YouTube channel!
+Special thanks to Adam Łucek[https://youtu.be/OPGmeFmFyq0?si=PiAWFZt09a9ghtqz] for the inspiring code and tutorials from your YouTube channel!
 
 ## License
 
